@@ -1,0 +1,7 @@
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\bin\Debug\DownlibTest.exe
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\bin\Debug\DownlibTest.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\bin\Debug\DownstreamLib.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\bin\Debug\DownstreamLib.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\obj\x86\Debug\DownlibTest.exe
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\DownDLL\DownlibTest\obj\x86\Debug\DownlibTest.pdb
